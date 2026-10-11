@@ -54,3 +54,7 @@ Use this if your browser doesn't save the best score when opening files directly
 
 - **Best score isn't remembered:** private/incognito windows and some `file://` setups block saving. Use Option B, or a normal window.
 - **Page scrolls on swipe:** make sure you swipe on the board itself; swipes elsewhere scroll normally by design.
+
+
+this is the weeeeeeeeeeeeeeeeeeeeeeeee
+
